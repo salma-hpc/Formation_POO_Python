@@ -19,7 +19,5 @@ Ce dépôt contient les ressources, les notes et les exercices réalisés dans l
 
 ##  Comment utiliser ce dépôt
 
- **Cloner le dépôt :**
-   ```bash
-   git clone [https://scm.vermon.com/sbensmail/Formation_POO_Python.git](https://scm.vermon.com/sbensmail/Formation_POO_Python.git)
-   cd Formation_POO_Python
+git clone https://scm.vermon.com/sbensmail/Formation_POO_Python.git
+cd Formation_POO_Python
