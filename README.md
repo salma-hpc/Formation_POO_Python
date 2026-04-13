@@ -17,7 +17,8 @@ Ce dépôt contient les ressources, les notes et les exercices réalisés dans l
 - `*.ipynb` : Notebooks Jupyter contenant les explications théoriques, les notes de cours et les tests interactifs.
 - `*.py` : Ensemble de modules pratiques illustrant les concepts de la POO (Héritage, Abstraction, Encapsulation, et Polymorphisme) appliqués à des cas concrets (Géométrie, Gestion d'employés, Structures de données, etc.).
 
-##  Comment utiliser ce dépôt
+## Comment utiliser ce dépôt
 
-git clone https://scm.vermon.com/sbensmail/Formation_POO_Python.git
+```bash
+git clone [https://scm.vermon.com/sbensmail/Formation_POO_Python.git](https://scm.vermon.com/sbensmail/Formation_POO_Python.git)
 cd Formation_POO_Python
