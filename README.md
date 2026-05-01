@@ -1,7 +1,6 @@
-# Formation Programmation Orientée Objet (POO) - Python
-"Dépôt de formation Salma"
+## Formation Programmation Orientée Objet (POO) - Python
 
-Ce dépôt contient les ressources, les notes et les exercices réalisés dans le cadre de ma formation sur les classes en Python, en préparation au développement du projet **Beamformer**.
+Ce dépôt contient les ressources, les notes et les exercices réalisés dans le cadre de ma formation sur les classes en Python.
 
 ##  Objectifs
 - Maîtriser la création de classes et d'objets (Attributs & Méthodes).
